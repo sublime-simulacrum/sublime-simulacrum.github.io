@@ -1,0 +1,29 @@
+  body {
+            
+            background-color:#6A4C9C;
+             border-style: solid;
+            border-color: #000000;
+            border-width: 3px;
+        }
+
+    .headings{
+            text-align: center;
+    }
+    .sections {
+            text-align: center;
+            padding: 5px;
+            padding-bottom: 5px;
+            padding-left: 5px;
+            padding-right: 5px;
+            border-style: solid;
+            border-color: #000000;
+            border-width: 2px;
+            margin-left: auto;
+            margin-bottom: auto;
+            margin-right: auto;
+            margin-top: auto;
+          
+            max-width: 67%;
+            display: block;
+            overflow: auto;
+        }
